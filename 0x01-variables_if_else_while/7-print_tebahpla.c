@@ -1,4 +1,4 @@
-/* File: 7-print_tebahpla.c
+/* file: 7-print_tebahpla.c
  * Auth: Derrick Owusu
  */
 
@@ -7,10 +7,10 @@
 /**
  * main print the lowercase alphabets in reverse.
  *
- *Return: Always 0.
+ * return: Always 0.
  */
 
-int main (void)
+int main(void)
 {
 char letter;
 
