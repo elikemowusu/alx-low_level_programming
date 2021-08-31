@@ -4,9 +4,11 @@
 
 #include "main.h"
 #include <stdio.h>
+
 /**
- *Main - prints Holberton, followed by a new line.
- *Return: Always 0
+ * main - prints _putchar, followed by a new line.
+ *
+ * Return: Always 0
  */
 int main(void)
 {
