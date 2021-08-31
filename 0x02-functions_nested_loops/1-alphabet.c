@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * Main - prints the alphabet, in lowercase, followed by a new line.
