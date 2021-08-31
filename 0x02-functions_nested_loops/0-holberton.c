@@ -1,7 +1,3 @@
-/* File: 0-holberton.c
- * Auth: Derrick Owusu
- */
-
 #include "main.h"
 #include <stdio.h>
 
