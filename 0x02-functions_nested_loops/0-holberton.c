@@ -2,7 +2,7 @@
  * Auth: Derrick Owusu
  */
 
-#include "main.h"
+#include <main.h>
 
 /**
  *Main - prints Holberton, followed by a new line.
